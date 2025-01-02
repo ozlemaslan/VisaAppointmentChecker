@@ -16,7 +16,7 @@ Json şeklinde size veriler gelecek.Bu jsonda yazdığınız mesajı(Hello) gör
            ......
           }
 
-      private static readonly string chatId = "your-chatid"; -> İşte yukarıdaki chat-id değerini kodda buraya yazın.
+      private static readonly string chatId = "your-chatid"; -> Yukarıdaki chat-id değerini buraya yazın.
       
 Artık vize telegram botunuz hazır. Kod çalıştıkça filtrelediğiniz ve uygun vize randevularını bulup bu bot üzerinden size mesaj gelecektir.
 Telegram bot için kaynak : https://gist.github.com/nafiesl/4ad622f344cd1dc3bb1ecbe468ff9f8a 
